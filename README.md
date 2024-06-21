@@ -22,7 +22,7 @@ Pursuing a Full Stack Software Engineering program at Devslopes to continually r
 
 **Technical Proficiencies:**
 
-**Front-End**
+**Front-End:**
 <br>
 **HTML5** <br>
 Crafting semantic and accessible web structures.
@@ -39,7 +39,7 @@ Creating scalable and maintainable front-end applications.
 **Vue.js** <br>
 Developing progressive user interfaces.
 
-**Back-End**
+**Back-End:**
 <br>
 **Node.js** <br>
 Building efficient and scalable server-side applications.
@@ -56,7 +56,7 @@ Developing robust back-end systems and enterprise solutions.
 **Ruby on Rails** <br>
 Creating high-performance web applications.
 
-**Databases**
+**Databases:**
 <br>
 **MongoDB** <br>
 Managing NoSQL databases for high scalability.
@@ -67,7 +67,7 @@ Designing and maintaining relational database systems.
 **PostgreSQL** <br>
 Ensuring data integrity and complex query handling.
 
-**Other Technologies**
+**Other Technologies:**
 <br>
 **GraphQL** <br> 
 Simplifying data fetching with a flexible query language.
